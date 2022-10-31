@@ -1,2 +1,3 @@
-# RedressOS-OfficialRepo
-RedressOS is a collection of fixed operating systems
+# RedressOS
+Actually Windows...but modern and fluent
+
